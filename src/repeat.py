@@ -2,7 +2,7 @@
 # Podemos usar int() ou float() para definir numeros.
 num1 = int (3)
 
-texto = ("ola")
+texto = ("Olá!")
 
-resultado = texto  * num1
+resultado = (texto + "\n")  * num1
 print(resultado)
